@@ -116,7 +116,6 @@ input[type="checkbox"] {
   justify-content: center;
   width: 20px;
   height: 20px;
-  border-radius: 50%;
   border: 2px solid var(--business);
   box-shadow: var(--business-glow);
 }
@@ -134,7 +133,6 @@ input[type="checkbox"] {
   height: 0px;
   background-color: var(--business);
   box-shadow: var(--business-glow);
-  border-radius: 50%;
   transition: 0.2s ease-in-out;
 }
 
